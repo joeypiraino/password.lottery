@@ -9,3 +9,4 @@ This is the creation of a random password generator that responds directly to us
 -The password array needs to be converted into a string
 -The final product password is displayed in the textbox
 -Added a "Copy to Clipboard" button with an alert to expedite flow for the user
+ 
