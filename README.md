@@ -1,4 +1,7 @@
-# password.lottery.github.io
+# Password Lottery
+
+Deployed Site: https://joeypiraino.github.io/password.lottery/
+
 This is the creation of a random password generator that responds directly to user input and criteria:
 
 -Code has to start with all possible user input variables such as Alphabetical, Numeric, and Special Characters
